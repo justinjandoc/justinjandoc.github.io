@@ -7,6 +7,8 @@ labels:
   - Learning
   - Software Engineering
 ---
+
+
 One of the greatest joys in my life is becoming comfortable with a new skill or passion. A few of my personal interests are photography, skating, and keyboards. Very few things feel more exhilarating and freeing than when I am able to geek out and dive deep into the rabbit holes that each interest provides. The deeper down in the rabbit hole I go, the more I find myself wanting to obsessively optimize. This mindset of finding the best cases via optimization has accompanied me when I started learning about software engineering and writing code. 
 
 The first programming languages I have learned were Java, C, and C++. Transitioning from Java to C to C++ went pretty smoothly. When I heard that my next class, Software Engineering, would cover Javascript, I became very excited. Up until now, C++ was my preferred language. It might be biased since it is the most recent programming language I have learned, but I felt comfortable and like I could optimally write with it. I greatly enjoy adding more to an interest and putting it into photography terms, learning Javascript is just like adding another lens to my kit. For me personally within this first week of learning and writing with Javascript, in photography terms, C++ is a lens with fixed focal length whereas Javascript is a zoom lens.
