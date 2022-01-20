@@ -39,12 +39,17 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "photography",
+      "name": "Web Design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Photography",
       "keywords": [
       ]
     }
@@ -57,9 +62,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
