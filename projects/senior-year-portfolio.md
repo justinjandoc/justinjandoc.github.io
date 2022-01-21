@@ -15,4 +15,4 @@ summary: My high school senior year photography portfolio.
 
 <img class="ui image" scr="justinjandoc.github,io/images/scam.jpg">
 
-Ahh
+During my senior year of high school, I decided to take a photography class in hopes to add photo taking and photo editing to my skillset.
