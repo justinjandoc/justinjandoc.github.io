@@ -19,9 +19,7 @@ During my senior year of high school, I decided to take photography classes in h
 
 <img class="ui medium left floated rounded image" src="../images/tree-bark.jpg">
 
-Throughout the span of my senior year, I went out and took pictures at any opportunity I could. I was also able to edit and curate these photos, both at home and on-site. At the end of the class, the teacher had us print out our pictures in order to display them during a school event during the evening. During this event, we were able to advertise and sell our pictures to attendees and parents.
-
-
+Throughout the span of my senior year, I went out and took pictures at any opportunity I could. I was also able to edit and curate these photos, both at home and on-site. At the end of the class, the teacher had us print out our pictures in order to display them during a school event during the evening. During this event, we were able to advertise and sell our pictures to attendees and parents. My class raised a modest amount of money, but we took our printed pictures home and gifted them to our friends, families, and teachers.
 
 <img class="ui medium right floated rounded image" src="../images/sunflower.jpg">
 
