@@ -13,6 +13,6 @@ labels:
 summary: My high school senior year photography portfolio.
 ---
 
-<img class="ui medium right floated rounded image" scr="../images/scam.jpg">
+<img class="ui medium right floated rounded image" scr="../images/cherry-blossoms.jpg">
 
 During my senior year of high school, I decided to take a photography class in hopes to add photo taking and photo editing to my skillset.
