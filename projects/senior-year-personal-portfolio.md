@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/scam.jpg
-title: Senior Year Personal Portfolio
+title: Senior Year Personal Photography Portfolio
 permalink: projects/senior-year-personal-portfolio
 # All dates must be YYYY-MM-DD format!
 date: 2019-2020
@@ -10,7 +10,7 @@ labels:
   - Photography
   - Color Theory
   - Nature
-summary: My high school senior year photography portfolio.
+summary: A collection of currated photographs taken during my senior year of high school.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/cherry-blossoms.jpg">
