@@ -10,9 +10,9 @@
     "location": {
       "address": "91-1068 Apuu Street",
       "postalCode": "96706",
-      "city": "Honolulu",
+      "city": "Ewa Beach",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Hawai'i"
     },
     "profiles": [
       {
@@ -87,19 +87,19 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ], 
+//  "work": [
+//    {
+//      "company": "",
+//      "position": "",
+//      "website": "",
+//      "startDate": "",
+//      "endDate": "",
+//      "summary": "",
+//      "highlights": [
+//        ""
+//      ]
+//    }
+//  ], 
   "volunteer": [
     {
       "organization": "Damien Memorial School",
