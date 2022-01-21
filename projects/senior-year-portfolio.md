@@ -13,6 +13,6 @@ labels:
 summary: My high school senior year photography portfolio.
 ---
 
-<img class="ui medium centered fluid image" scr"/images/scam.jpg">
+<img class="ui medium centered fluid image" scr"../images/scam.jpg">
 
 Ahh
