@@ -13,7 +13,7 @@ labels:
 summary: My high school senior year photography portfolio.
 ---
 
-<img class="ui medium right floated rounded image" scr="../images/cherry-blossoms.jpg">
+<img class="ui medium right floated rounded image" src="../images/cherry-blossoms.jpg">
 
 During my senior year of high school, I decided to take photography classes in hopes to add photo taking and photo editing to my skillset. The two major projects assigned during this class were to prepare and curate portfolios showcasing our creativity, technical prowess regarding photo editing and handling photography gear, and understanding of concepts such as framing, lighting, and colors.
 
