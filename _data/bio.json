@@ -88,7 +88,6 @@
     }
   ],
   "work": [
-    visible: false
     {
       "company": "",
       "position": "",
@@ -140,6 +139,7 @@
       "date": "Fall 2020",
       "awarder": "University of Hawai'i at Mānoa",
       "summary": "Undergraduate students are awarded the Dean's List distinction when they have earned a semester GPA of 3.5 or higher and were enrolled in 12 or more credits for a grade, excluding CR/NC (credit/no credit), W (withdrawn), I (incomplete), F (failure) grades for the semester."
+    }
   ],
   "references": [
     {
