@@ -89,31 +89,20 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "Damien Memorial School",
+      "position": "Student Volunteer",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ], 
-  "volunteer": [
-    {
-      "organization": "Damien Memorial School",
-      "website": "",
-      "position": "Volunteer",
       "startDate": "2016",
       "endDate": "2020",
       "summary": "As per Damien Memorial School's graduation requirements, students were to accumulate 30 hours of volunteering per year of attendance.",
       "highlights": [
         "Church and classroom cleaning",
         "Preparing students' work",
-        "Maintenance of Lo'i Kalo Mini Park "
+        "Maintenance of Lo'i Kalo Mini Park"
       ]
-    },
+    }
+  ], 
+  "volunteer": [
     {
       "organization": "Damien Memorial School",
       "website": "",
