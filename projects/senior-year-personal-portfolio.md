@@ -5,7 +5,7 @@ image: images/scam.jpg
 title: Senior Year Personal Portfolio
 permalink: projects/senior-year-personal-portfolio
 # All dates must be YYYY-MM-DD format!
-date: 2020-May-24
+date: 2020-05-24
 labels:
   - Photography
   - Color Theory
