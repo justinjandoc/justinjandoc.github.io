@@ -64,27 +64,30 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MacOS"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawai'i at Mānoa",
+      "area": "Information & Computer Sciences (expected Spring, 2024)",
+      "studyType": "B.A.",
+      "startDate": "2020",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 314: Software Engineering I",
+        "ICS 311: Algorithms",
+        "ICS 214: Discrete Mathematics II",
+        "ICS 212: Program Structure",
+        "ICS 211: Intro to Computer Science II",
+        "ICS 141: Discrete Math for CS I",
+        "ICS 111: Intro to Computer Science I"
       ]
     }
   ],
-  "work": [
+/*  "work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -96,59 +99,41 @@
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
     }
-  ],
+  ], */
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Damien Memorial School",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2016",
+      "endDate": "2020",
+      "summary": "As per Damien Memorial School's graduation requirements, students were to accumulate 30 hours of volunteering per year of attendance.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Church and classroom cleaning",
+        "Preparing students' work",
+        "Maintenance of Lo'i Kalo Mini Park "
       ]
     },
     {
-      "organization": "",
+      "organization": "Damien Memorial School",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Student Photographer",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Provide photographs to be used in the school's yearbook, website, and social media.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Attend school and sports events",
+        "Edit and submit photos to the yearbook staff"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawai'i at Mānoa",
+      "summary": "Scholarship is an automatic $2,000 scholarship per year for four years of undergraduate study for first-time degree seeking students. Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa."
     }
   ],
   "references": [
