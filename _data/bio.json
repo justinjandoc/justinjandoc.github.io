@@ -88,6 +88,7 @@
     }
   ],
   "work": [
+    visible: false
     {
       "company": "",
       "position": "",
