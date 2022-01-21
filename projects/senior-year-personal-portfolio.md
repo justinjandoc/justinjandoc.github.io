@@ -21,6 +21,8 @@ During my senior year of high school, I decided to take photography classes in h
 
 Throughout the span of my senior year, I went out and took pictures at any opportunity I could. I was also able to edit and curate these photos, both at home and on-site. At the end of the class, the teacher had us print out our pictures in order to display them during a school event during the evening. During this event, we were able to advertise and sell our pictures to attendees and parents.
 
+
+
 <img class="ui medium right floated rounded image" src="../images/sunflower.jpg">
 
 Working on this portfolio helped me become more comfortable with expressing myself, as well as giving me more confidence in the things I create. Furthermore, I gained a better understanding of the process of photo production, especially with how I would have to sort through and edit the pictures taken. I was able to develop my own style and workflow, especially with how my photography teacher gave us the mindset that we are working for a client.
