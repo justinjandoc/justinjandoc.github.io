@@ -23,4 +23,4 @@ Throughout the span of my senior year, I went out and took pictures at any oppor
 
 Working on this portfolio helped me become more comfortable with expressing myself, as well as giving me more confidence in the things I create. Furthermore, I gained a better understanding of the process of photo production, especially with how I would have to sort through and edit the pictures taken. I was able to develop my own style and workflow, especially with how my photography teacher gave us the mindset that we are working for a client.
 
-You can view my Google Drive containing my portfolio here. [Senior Year Personal Photography Portfolio] (https://drive.google.com/drive/folders/1uu-iY5TdTb0cnrg9g2D-U08X_8IujBav?usp=sharing)
+You can view my Google Drive containing my portfolio here. [Senior Year Personal Photography Portfolio](https://drive.google.com/drive/folders/1uu-iY5TdTb0cnrg9g2D-U08X_8IujBav?usp=sharing)
