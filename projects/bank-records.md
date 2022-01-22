@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/scam.jpg
+image: images/bank-records.jpg
 title: Bank Records
-permalink: projects/senior-year-personal-portfolio
+permalink: projects/bank-records
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-28
 labels:
