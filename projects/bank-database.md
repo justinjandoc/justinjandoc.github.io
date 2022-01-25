@@ -13,6 +13,7 @@ labels:
 summary: A program simulating a bank with the functionality of adding, displaying, and deleting records.
 ---
 
+<img class="ui medium right floated image" src="../images/bank-records.png">
 
 During the Fall 2021 semester, the professor of my ICS212 course assigned a major project that spanned over the whole of the semester.
 
