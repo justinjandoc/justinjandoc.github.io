@@ -5,7 +5,7 @@ image: images/bank-records.png
 title: Bank Database
 permalink: projects/bank-database
 # All dates must be YYYY-MM-DD format!
-date: 2021
+date: 2021-11-28
 labels:
   - C++
   - C
