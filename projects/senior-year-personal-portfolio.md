@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/scam.jpg
+image: images/photo-portfolio-cover.jpg
 title: Senior Year Personal Photography Portfolio
 permalink: projects/senior-year-personal-portfolio
 # All dates must be YYYY-MM-DD format!
