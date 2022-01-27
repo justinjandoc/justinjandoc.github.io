@@ -18,14 +18,12 @@ summary: A program simulating a bank with the functionality of adding, displayin
 
 During the Fall 2021 semester, the professor of my ICS212 course assigned this major project. This program simulates a bank database with the functionality of being able to add, delete, and display accounts and records. The first part of the project included the user-interface. The requirement was to create a menu printed out to the user displaying the multiple options. The program must then accept user inputs in order to redirect users to their chosen option. The second part of the project included implementing a linked list storing the accounts and records within the database. The program could also run regularly or with debug outputs declaring which functions are current being called.
 
-```      
+```C++      
 // user input
 std::cout << "Please type in your selected option: ";
 std::cin.get(input, 50);
 std::cin.clear();
 std::cin.ignore();
-
-std::cout << std::endl;
 
 // checks input
 if (strncmp(input, "add", strlen(input)) == 0) {
@@ -41,6 +39,6 @@ if (strncmp(input, "add", strlen(input)) == 0) {
 }
 ```
 
-
+Originally, this program was written in C. Partway through the course, the professor reassigned the project but required for the program to be updated into C++. Above is a snippet of my code. This is the part that accepts a user input and then "unlocks" the chosen menu option. The first version of this part was unnecessarily complicated, long, and consisted of many if-else statements. Thanks to the C String functions, I was able to greatly shorten the input conditionals.
 
 Feel free to click this [link](https://github.com/justinjandoc/Bank-Database) if you are interested in reading the source code.
