@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: project
 type: project
 image: images/bank-records.png
