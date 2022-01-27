@@ -14,7 +14,7 @@ One of the greatest joys in my life is becoming comfortable with a new skill or 
 
 ## A New Opportunity
 
-<img class="ui small right floated image" src="../images/js-logo.png">
+<img class="ui medium right floated image" src="../images/js-logo.png">
 
 The first programming languages I have learned were Java, C, and C++. Transitioning from Java to C to C++ went pretty smoothly. When I heard that my next class, Software Engineering, would cover Javascript, I became very excited. Up until now, C++ was my preferred language. It might be biased since it is the most recent programming language I have learned, but I felt comfortable and like I could optimally write with it. I greatly enjoy adding more to an interest and putting it into photography terms, learning Javascript is just like adding another lens to my kit. For me personally within this first week of learning and writing with Javascript, in photography terms, C++ is a lens with fixed focal length whereas Javascript is a zoom lens.
 
