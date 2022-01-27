@@ -14,7 +14,7 @@ One of the greatest joys in my life is becoming comfortable with a new skill or 
 
 ## A New Opportunity
 
-<img class="ui tiny right floated image" src="../images/js-logo.png">
+<img class="ui small right floated image" src="../images/js-logo.png">
 
 The first programming languages I have learned were Java, C, and C++. Transitioning from Java to C to C++ went pretty smoothly. When I heard that my next class, Software Engineering, would cover Javascript, I became very excited. Up until now, C++ was my preferred language. It might be biased since it is the most recent programming language I have learned, but I felt comfortable and like I could optimally write with it. I greatly enjoy adding more to an interest and putting it into photography terms, learning Javascript is just like adding another lens to my kit. For me personally within this first week of learning and writing with Javascript, in photography terms, C++ is a lens with fixed focal length whereas Javascript is a zoom lens.
 
@@ -22,6 +22,6 @@ The first Javascript concept that made me genuinely giddy to learn more about th
 
 ## An Upcomming Obstacle
 
-<img class="ui centered small image" src="../images/js-wod-sc.png">
+<img class="ui centered image" src="../images/js-wod-sc.png">
 
 Throughout my current Computer Science course, Software Engineering, my professor will assign WODs (workouts of the day). I believe that these WODs will prove to be extremely beneficial to me and will help me further optimize and understand the logic that I use to write code. Aside from optimization, the pressure of these WODs being timed allow me to practice managing stressful situations and working under pressure. This style of learning seems like a very efficient way to learn and become accustomed to programming languages, so I am eager to see how much I might learn throughout this course.
