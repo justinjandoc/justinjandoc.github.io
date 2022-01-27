@@ -41,4 +41,7 @@ if (strncmp(input, "add", strlen(input)) == 0) {
 
 Originally, this program was written in C. Partway through the course, the professor reassigned the project but required for the program to be updated into C++. Above is a snippet of my code. This is the part that accepts a user input and then "unlocks" the chosen menu option. The first version of this part was unnecessarily complicated, long, and consisted of many if-else statements. Thanks to the C String functions, I was able to greatly shorten the input conditionals.
 
+I eventually would like to further optimize this project in C++, as well as remake it in other programming languages. It helped give me a beter understanding of data structures, such as linked lists, and enabled me to practice more regarding handling user inputs. The project also allowed me to practice tracing programs in order to see how code runs, watch how values within the program shift, and make debugging an easier experience.
+
 Feel free to click this [link](https://github.com/justinjandoc/Bank-Database) if you are interested in reading the source code.
+
