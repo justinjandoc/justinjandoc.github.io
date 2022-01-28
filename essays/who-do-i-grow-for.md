@@ -32,5 +32,5 @@ public static void main(String args[]) {
 Bettering myself in all that I do is the ultimate goal, but that's not fun if I can't reap the rewards with others. One of my most needed experiences is how it feels working on a software engineering project as a team. Many important skills, such as communication, time management, and teamwork are linked to this, and developing these skills is very essential to me. Besides working with others, I would also like to work for others. Whether it be assignments for my professors or the occasional odd program my friends want to work on, learning how to serve clients is an important lesson I would like to learn.
 
 ```Javascript
-console.log("Hello World!);
+console.log("Hello World!");
 ```
