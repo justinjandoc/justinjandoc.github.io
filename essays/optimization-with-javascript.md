@@ -4,6 +4,7 @@ type: essay
 title: Optimzation With Javascript
 date: 2022-01-19
 labels:
+  - Javascript
   - Learning
   - Software Engineering
 ---
