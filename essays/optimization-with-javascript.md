@@ -22,7 +22,16 @@ The first programming languages I have learned were Java, C, and C++. Transition
 The first Javascript concept that made me genuinely giddy to learn more about this programming language is how variables are handled. Within C++, you would have to declare that a variable is the data type that you want it to be. Depending on the mindset of the user, this may not even be seen as a restriction. However, within Javascript, instead of the user having to manually tell the code which data type they want variables to be, the code just automatically assigns the type based on context. Furthermore, Javascript also has switch statements, which I have sorely missed when I transitioned from Java to C. Not having to declare variable types and having another option than filling a program with if-else statements might seem like minuscule things, but these got me excited to learn more about Javascript.
 
 ## An Upcomming Obstacle
-
-<img class="ui centered image" src="../images/js-wod-sc.png">
+```Javascript
+function projectEulerOne(max) {
+	let sum = 0;
+  for (let i = 0; i < max; i++) {
+  	if ((i % 3 == 0) || (i % 5 == 0)) {
+    	sum += i;
+    }
+  }
+  return sum;
+}
+```
 
 Throughout my current Computer Science course, Software Engineering, my professor will assign WODs (workouts of the day). I believe that these WODs will prove to be extremely beneficial to me and will help me further optimize and understand the logic that I use to write code. Aside from optimization, the pressure of these WODs being timed allow me to practice managing stressful situations and working under pressure. This style of learning seems like a very efficient way to learn and become accustomed to programming languages, so I am eager to see how much I might learn throughout this course.
