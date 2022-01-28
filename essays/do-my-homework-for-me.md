@@ -19,4 +19,4 @@ Such a post is more than deserving of a clean answer, and thankfully the top ans
 
 ## The Bad
 
-
+For every smart and well thought-out question, there are at least a dozen "pls do my hw for me?"'s. One not so smart question could be found in the StackOverflow post titled ["C File Homework"](https://stackoverflow.com/questions/20574925/c-file-homework).
