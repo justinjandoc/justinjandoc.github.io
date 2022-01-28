@@ -25,12 +25,12 @@ The first Javascript concept that made me genuinely giddy to learn more about th
 ```Javascript
 function projectEulerOne(max) {
 	let sum = 0;
-  for (let i = 0; i < max; i++) {
-  	if ((i % 3 == 0) || (i % 5 == 0)) {
-    	sum += i;
-    }
+	for (let i = 0; i < max; i++) {
+		if ((i % 3 == 0) || (i % 5 == 0)) {
+			sum += i;
+		}
   }
-  return sum;
+	return sum;
 }
 ```
 
