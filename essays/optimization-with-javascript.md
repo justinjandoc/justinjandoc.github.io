@@ -29,9 +29,8 @@ function projectEulerOne(max) {
 		if ((i % 3 == 0) || (i % 5 == 0)) {
 			sum += i;
 		}
-  }
+	}
 	return sum;
 }
 ```
-
 Throughout my current Computer Science course, Software Engineering, my professor will assign WODs (workouts of the day). I believe that these WODs will prove to be extremely beneficial to me and will help me further optimize and understand the logic that I use to write code. Aside from optimization, the pressure of these WODs being timed allow me to practice managing stressful situations and working under pressure. This style of learning seems like a very efficient way to learn and become accustomed to programming languages, so I am eager to see how much I might learn throughout this course.
