@@ -3,7 +3,7 @@ draft: true
 layout: essay
 type: essay
 title: layout essay
-date: YEAR-MM-DD
+date: 2022-01-31
 labels:
   - layout
 ---
