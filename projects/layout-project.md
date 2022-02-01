@@ -8,7 +8,7 @@ permalink: projects/layout-project
 # All dates must be YYYY-MM-DD format!
 date: 
 labels:
-  - 
+  - ahh
 summary: duplicate this to create new projects
 ---
 
