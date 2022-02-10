@@ -14,9 +14,11 @@ labels:
 
 
 ##Complying for Compiling
+
 [//]: # (write about how using coding standards helps a lot with debugging)
 
 ##Red Lines
+
 <img class="ui medium right floated image" src="../images/spaghetti-code.png">
 
 [//]: # (write about how using coding standards actually helps with knowing what stuff does, as well as good practices)
