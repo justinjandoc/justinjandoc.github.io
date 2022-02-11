@@ -12,7 +12,7 @@ labels:
 
 ## Side of Spaghetti
 
-<img class="ui small right floated image" src="../images/spaghetti-code.png">
+<img class="ui medium right floated image" src="../images/spaghetti-code.png">
 
 When doing anything, it is oftentimes natural to come across a certain style and sitck with it, making it your new standard. With practice, this becomes second nature and less of something that you go out of your way to do. As a second year Computer Science student in his fourth programming focused course, I believe I have a grasp on how I should incorporate my own style with my courses' established coding standards. Besides, the most restrictive coding standards can't be as bad as spaghetti code, right?
 
@@ -63,4 +63,4 @@ The most common error I come across is how I declare my variables. I tend to go 
 
 There are numerous other errors I have made, but ESLint has made it easier to fix these. All it takes is a few mouse clicks and my code is automatically fixed to adhere to the standards. Without this feature, ESLint would have been extremely tedious to use, as that would require things such as reading documentation to even have a grasp on why a block of code is _improper_.
 
-ESLint will only help me shape my own personal preferences, as well as give me good coding standards that will allow me and others to easily read the programs I write. Having a consistent style is something nice that you should always have in your pocket.
+ESLint will only help me shape my own personal preferences, as well as give me good coding standards that will allow me and others to easily read the programs I write. Having a consistent style is something nice that you should always have in your pockets.
