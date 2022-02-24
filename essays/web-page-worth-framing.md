@@ -20,9 +20,14 @@ game changing. However, there is still that certain charm that vanilla Minecraft
 there is something special about playing the raw game that the developers have created. Another 
 arguement against mods and for vanilla is what happens if you have to switch to another computer?
 You could redownload your usual modpacks, but this can be completely avoided if you forwent 
-using mods in the first 
+using mods in the first place. Is it really worth becoming reliant on mods?
+
+To use the raw form of anything is always up to personal preference and is typically subjective, 
+but deciding whether or not using *outside* resources is optimal is an important thing to keep 
+in mind. While the analogy of Minecraft mods does not perfectly fit, we can still use this 
+example when looking at frameworks such as Semantic UI.
 
 ##Learning Semantic UI
 
-<img class="ui medium right floated image" src="../images/semantic-ui-logo.png" alt="semantic ui 
-logo">
+<img class="ui medium right floated image" src="../images/semantic-ui-logo.png" alt="semantic ui">
+
