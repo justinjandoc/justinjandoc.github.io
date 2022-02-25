@@ -18,7 +18,7 @@ When it comes to video games, I personally prefer to play vanilla. Take Minecraf
 its community has produced a countless amount of mods ranging from quality of life to completely 
 game changing. However, there is still that certain charm that vanilla Minecraft provides, and 
 there is something special about playing the raw game that the developers have created. Another 
-arguement against mods and for vanilla is what happens if you have to switch to another computer?
+argument against mods and for vanilla is what happens if you have to switch to another computer?
 You could redownload your usual modpacks, but this can be completely avoided if you forwent 
 using mods in the first place. Is it really worth becoming reliant on mods?
 
