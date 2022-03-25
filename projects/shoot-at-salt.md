@@ -1,9 +1,9 @@
 ---
-published: true
+published: false
 layout: project
 type: project
 image: images/silver-bee-thumbnail.JPG
-title: Shoot at Salt
+title: Shoot at SALT
 permalink: projects/shoot-at-salt
 # All dates must be YYYY-MM-DD format!
 date: 2022-03-22
