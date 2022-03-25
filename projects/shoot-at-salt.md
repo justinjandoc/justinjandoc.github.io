@@ -15,4 +15,4 @@ summary: Armed with a Canon EOS Rebel T7, a Canon EOS RP, and two nifty fifties,
     took pictures at SALT At Our Kaka'ako. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/">
+<img class="ui medium right floated rounded image" src="../images/hanks-haute-dogs.JPG">
