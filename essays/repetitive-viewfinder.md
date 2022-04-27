@@ -3,7 +3,7 @@ draft: true
 layout: essay
 type: essay
 title: Repetitive Viewfinder
-date: 2022-01-31
+date: 2022-04-26
 labels:
 - Photography
 - Design Patterns
