@@ -30,9 +30,14 @@ This may seem counterintuitive, as the horizon running through the center will h
 the photo. However, by deciding whether you want the sky or the landscape to take up most of the
 frame, you are forced to have a more focused subject rather than having two equal subjects share.
 
-## Patterns of Restriction
+## Patterns in View
 
 <img class="ui medium right floated rounded image" src="../images/the-stairs.JPG" alt="stairs">
 
-While the rule of thirds has provided me a lot of guidance, I have scrapped many shots because I 
-was afraid that they just did not comply to this rule. 
+Despite The Rule of Thirds being a generally good concept to reference, I oftentimes find myself 
+dogmatically treating it as law rather than what it should be: a rule meant to be broken. It is 
+a tool, and it is up to the photographer to decide when they would like to use such a tool. The 
+mistake of scrapping and blundering what could have been amazing shots has helped me become more 
+aware of the things I restrict myself to, and I believe that this lesson is carried perfectly 
+into how I write code.
+
