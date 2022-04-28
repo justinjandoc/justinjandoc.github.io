@@ -47,8 +47,10 @@ where it may be useful. This correlates with the prototype design pattern, which
 will learn more about and use more, as I have a liking towards the user interface and front-end 
 portions of software development.
 
-<img class="ui medium floated rounded image" src="../images/lamp-post.jpeg" alt="street light">
+<img class="ui medium right floated rounded image" src="../images/lamp-post.jpeg" alt="street 
+light">
 
 Keeping the many patterns and repetitive solutions in mind can be very helpful, and referring 
 back to such concepts may be your safest best. However, straying away from conventions and 
-discovering another solution might be more enjoyable.
+discovering another solution might be more enjoyable. This flexibility of having other solutions 
+in view will continue to be an extremely useful skill to have.
