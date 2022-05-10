@@ -64,7 +64,8 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS"
+        "MacOS",
+        "Windows"
       ]
     }
   ],
