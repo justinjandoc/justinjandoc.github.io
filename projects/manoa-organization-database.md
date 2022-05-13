@@ -1,5 +1,4 @@
 ---
-published: true
 layout: project
 type: project
 image: images/mod-cover.jpeg
