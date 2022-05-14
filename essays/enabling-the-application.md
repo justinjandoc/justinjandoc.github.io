@@ -69,7 +69,7 @@ greater understanding of our own work and do what needs to be done in a timely m
 
 ## Allow Patterns
 
-<img class="ui medium left floated image" src="../images/scam.JPG">
+<img class="ui medium left floated image" src="../images/scam.jpg">
 
 My workflow is very optimization focused. If I am able to create a solution and use that 
 solution again and again, I will take that opportunity. In computer science many problems 
