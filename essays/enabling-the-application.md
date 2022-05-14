@@ -24,6 +24,25 @@ mindset has carried over to my journey as a beginning software engineer.
 
 ## Let's Share
 
-<img class="ui image" src="../images/its-not-my-code.jpg">
+<img class="ui middle image" src="../images/its-not-my-code.jpg">
+
+In today's world, recycling is very useful, whether it be your cans and bottles or things you 
+have previously worked on. Oftentimes people come up with the exact same solution to a problem. 
+That is just the nature of it, if the same question is asked then the same answer may be given. 
+However, as a computer science student, this concept is admittedly a bit frightening. If my 
+classmate and I come up with the exact same code, with the exception of a few lines, would we be 
+marked for plagiarism? This fear has been prevalent for the past few computer sciences classes I 
+have been enrolled in, but that changed when I learned more about open source software 
+development. This concept basically means that an application's source code is readily available 
+and is able to be reused. My first "real" encounter of this was during my first group project, the [Manoa Organization Database](https://justinjandoc.github.io/projects/manoa-organization-database).
+In this project, my group used the open source web application [Bowfolios](https://bowfolios.github.io/)
+, and this greatly sped up development as many of the necessary elements we needed were provided.
+Being able to constructively manipulate the resources we already have in order to suit a new 
+purpose is a skill that will enable me to work more effectively and will give me a leg up in the 
+beginning stages of future projects.
+
+## Keep It Clean
 
 
+
+## Allow Patterns
