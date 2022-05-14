@@ -24,7 +24,7 @@ mindset has carried over to my journey as a beginning software engineer.
 
 ## Let's Share
 
-<img class="ui middle image" src="../images/its-not-my-code.jpg">
+<img class="ui middle centered image" src="../images/its-not-my-code.jpg">
 
 In today's world, recycling is very useful, whether it be your cans and bottles or things you 
 have previously worked on. Oftentimes people come up with the exact same solution to a problem. 
