@@ -1,5 +1,4 @@
 ---
-published: true
 layout: project
 type: project
 image: images/mod-cover.jpeg
@@ -11,7 +10,7 @@ labels:
 - SemanticUI
 - Meteor
 - Group Project
-  summary: A database cataloguing clubs based in the University of Hawai'i at Mānoa.
+summary: A database cataloguing clubs based in the University of Hawai'i at Mānoa.
 ---
 
 <img class="ui image" src="../images/mod-landing.png">
