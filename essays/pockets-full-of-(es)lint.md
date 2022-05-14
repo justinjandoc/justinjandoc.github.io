@@ -59,7 +59,9 @@ It only makes sense though, such coding standards are established by professiona
 
 Currently, I am learning JavaScript and this course requires our code to be checked by ESLint. The coding standards required nicely fit with my own personal preferences. One the major advantages of using ESLint is that the excessive need to destroy those red lines may lead you to learning more about the JavaScript coding language.
 
-The most common error I come across is how I declare my variables. I tend to go for what I thought was the safer pick, declaring my veriables with `let`. I surmised that using `const` was riskier, as you would not want to incremenent a constant variable. However, with the input of ESLint, I now understand the nature of `let` and `const` variables a little bit more. 
+The most common error I come across is how I declare my variables. I tend to go for what I 
+thought was the safer pick, declaring my variables with `let`. I surmised that using `const` was 
+riskier, as you would not want to incremenent a constant variable. However, with the input of ESLint, I now understand the nature of `let` and `const` variables a little bit more. 
 
 There are numerous other errors I have made, but ESLint has made it easier to fix these. All it takes is a few mouse clicks and my code is automatically fixed to adhere to the standards. Without this feature, ESLint would have been extremely tedious to use, as that would require things such as reading documentation to even have a grasp on why a block of code is _improper_.
 
