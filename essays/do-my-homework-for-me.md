@@ -1,4 +1,6 @@
 ---
+draft: true
+published: false
 layout: essay
 type: essay
 title: Do My Homework For Me?
