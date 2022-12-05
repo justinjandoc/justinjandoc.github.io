@@ -54,6 +54,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "SQL",
+        "Prolog",
         "OCaml",
         "Lisp",
         "Javascript",
