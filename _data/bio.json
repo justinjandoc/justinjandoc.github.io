@@ -54,6 +54,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Python",
         "SQL",
         "Prolog",
         "OCaml",
@@ -80,8 +81,12 @@
       "studyType": "B.A.",
       "startDate": "2020",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.51",
       "courses": [
+        "ICS 464: Human Computer Interaction I",
+        "ICS 414: Software Engineering II",
+        "ICS 312: Machine-Level and Systems Programming",
+        "ICS 110P: Programming: Python",
         "ICS 321: Database Systems I",
         "ICS 313: Programming Language Theory",
         "ICS 314: Software Engineering I",
