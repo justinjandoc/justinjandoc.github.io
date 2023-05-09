@@ -20,7 +20,7 @@ Manoa Inventory: POST, or MI:P for short, is a web application based on the thir
 
 <img class="ui image" src="../images/mip-faculty-search.png">
 
-This group project was assigned by my ICS414, Software Engineering 2, professor during the Spring 2023 semester. I was in a group with seven other people, and my contributions mainly focused on the backend and database. During the project, I created collections to store data from the users, clubs, and rooms. These collections could then be linked to the frontend of the web application, displaying things such as a user's profile information or the rooms they are associated with. Near the end of the project, I focused on adding functionality that allowed faculty members to add their own emergency contact information, which was requested by our customer.
+This group project was assigned by my ICS414, Software Engineering II, professor during the Spring 2023 semester. I was in a group with seven other people, and my contributions mainly focused on the backend and database. During the project, I created collections to store data from the users, clubs, and rooms. These collections could then be linked to the frontend of the web application, displaying things such as a user's profile information or the rooms they are associated with. Near the end of the project, I focused on adding functionality that allowed faculty members to add their own emergency contact information, which was requested by our customer.
 
 <img class="ui image" src="../images/mip-faculty-profile.png">
 
