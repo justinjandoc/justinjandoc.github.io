@@ -24,4 +24,6 @@ This group project was assigned by my ICS414, Software Engineering 2, professor 
 
 <img class="ui image" src="../images/mip-faculty-profile.png">
 
-Manoa Inventory: POST was my second software engineering but my first project in which we had to create something for a customer. I was also in a bigger group than what I was used to, but this was offset with the amount of work there was to be done. 
+Manoa Inventory: POST was my second software engineering but my first project in which we had to create something for a customer. I was also in a bigger group than what I was used to, but this was offset with the amount of work there was to be done. As this project was to be presented to our customers, we were introduced to the concept of "user stories." These user stories are scenarios that users of the website may find themselves in. For example, one of our user stories was how a faculty member may want to change their emergency contact information.
+
+For more information, you may visit the Manoa Inventory: POST homepage [here](https://manoa-inventory-post.github.io/). The homepage contains links to the project's source code, as well as links to my teammates' GitHub accounts and our team contract.
