@@ -13,7 +13,7 @@ For more information and context regarding the project I will be reflecting on, 
 
 ## Weren't We Just Here?
 
-<img class="ui medium right floated rounded image" src="../images/here-we-go-again.jpg">
+<img class="ui medium right floated rounded image" src="../images/youre-finally-awake.png">
 
 About a year ago, I took a classes called ICS314: Software Engineering I. I enjoyed the class, and when I heard of the continuation class, ICS414: Software Engineering II, I decided to register and take this class during the Spring 2023 semester. When the semester started, I found myself in the same room I took ICS314 with the same professor and used the same IDE with the same language. It was great, I was excited to get back into software engineering and to meet more people within my major. We were told that we will be creating a web application for our clients, and it is to be used to catalogue the inventory and people located on the third floor of POST. After a few group discussions, we decided on the name Manoa Inventory: POST.
 
