@@ -84,6 +84,7 @@
       "endDate": "Present",
       "gpa": "3.51",
       "courses": [
+        "ICS 451: Data Networks",
         "ICS 464: Human Computer Interaction I",
         "ICS 414: Software Engineering II",
         "ICS 312: Machine-Level and Systems Programming",
@@ -148,6 +149,12 @@
       "date": "2020-2024",
       "awarder": "University of Hawai'i at Mānoa",
       "summary": "Scholarship is an automatic $2,000 scholarship per year for four years of undergraduate study for first-time degree seeking students. Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa."
+    },
+    {
+      "title": "Dean's List",
+      "date": "Spring 2023",
+      "awarder": "University of Hawai'i at Mānoa",
+      "summary": "Undergraduate students are awarded the Dean's List distinction when they have earned a semester GPA of 3.5 or higher and were enrolled in 12 or more credits for a grade, excluding CR/NC (credit/no credit), W (withdrawn), I (incomplete), F (failure) grades for the semester."
     },
     {
       "title": "Dean's List",
