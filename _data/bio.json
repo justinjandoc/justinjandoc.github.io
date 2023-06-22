@@ -83,10 +83,12 @@
         "ICS 464: Human Computer Interaction I",
         "ICS 414: Software Engineering II",
         "ICS 312: Machine-Level and Systems Programming",
+        "ICS 110P: Programming: Python",
         "ICS 321: Database Systems I",
         "ICS 313: Programming Language Theory",
         "ICS 314: Software Engineering I",
         "ICS 311: Algorithms",
+        "ICS 212: Program Structure"
       ]
     }
   ],
@@ -149,13 +151,13 @@
       "title": "Dean's List",
       "date": "Fall 2022",
       "awarder": "University of Hawai'i at Mānoa",
-      "summary": ""
+      "summary": "Undergraduate students are awarded the Dean's List distinction when they have earned a semester GPA of 3.5 or higher and were enrolled in 12 or more credits for a grade, excluding CR/NC (credit/no credit), W (withdrawn), I (incomplete), F (failure) grades for the semester."
     },
     {
       "title": "Dean's List",
       "date": "Fall 2020",
       "awarder": "University of Hawai'i at Mānoa",
-      "summary": ""
+      "summary": "Undergraduate students are awarded the Dean's List distinction when they have earned a semester GPA of 3.5 or higher and were enrolled in 12 or more credits for a grade, excluding CR/NC (credit/no credit), W (withdrawn), I (incomplete), F (failure) grades for the semester."
     }
   ],
   "references": [
