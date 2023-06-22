@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "justinjandoc",
         "url": "https://www.linkedin.com/in/justin-jandoc-89043b22b/"
-      },
-      {
-        "network": "instagram",
-        "username": "justinjandoc",
-        "url": "https://www.instagram.com/justinjandoc/"
       }
     ]
   },
@@ -93,7 +88,8 @@
         "ICS 313: Programming Language Theory",
         "ICS 314: Software Engineering I",
         "ICS 311: Algorithms",
-        "ICS 212: Program Structure"
+        "ICS 212: Program Structure",
+        "ICS 241: Discrete Math II"
       ]
     }
   ],
