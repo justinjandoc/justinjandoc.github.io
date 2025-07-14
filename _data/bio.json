@@ -6,7 +6,7 @@
     "email": "102justinjandoc@gmail.com",
     "phone": "",
     "website": "https://justinjandoc.github.io",
-    "summary": "I am studying for a B.A. in Information & Computer Sciences at the University of Hawai'i at Mānoa. I expect to graduate in Spring, 2024.",
+    "summary": "I have graduated with a B.A. in Information & Computer Sciences from the University of Hawai'i at Mānoa.",
     "location": {
       "address": "",
       "postalCode": "96706",
@@ -73,11 +73,11 @@
   "education": [
     {
       "institution": "University of Hawai'i at Mānoa",
-      "area": "Information & Computer Sciences (expected Spring, 2024)",
+      "area": "Information & Computer Sciences",
       "studyType": "B.A.",
       "startDate": "2020",
-      "endDate": "Present",
-      "gpa": "3.52",
+      "endDate": "2024",
+      "gpa": "3.53",
       "courses": [
         "ICS 451: Data Networks",
         "ICS 464: Human Computer Interaction I",
@@ -98,7 +98,7 @@
       "position":  "Photo Booth Operator",
       "website": "",
       "startDate": "2022",
-      "endDate": "Present",
+      "endDate": "2023",
       "summary": "Set up, operate, and tear down the photo booth during parties and events.",
       "highlights": [
         "Interact with guests and groups during service",
